@@ -1,2 +1,2 @@
-# Laptop-Price-Prediction
+# Car-Price-Prediction
 ML Regression based Prediction
